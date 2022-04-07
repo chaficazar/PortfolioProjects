@@ -1,9 +1,3 @@
---********************************************************************************************************************************--
---The column of country names contained a mix of countries as well as regions.
---All region names did not have Codes assigned to them except for the 'World' Region.
---To solve that the 'World' rows had to be updated to match the remainder of the regions.
---********************************************************************************************************************************--
-
 -- Query 1 
 -- Update World Entries to SET code to NULL in ConsumptionBySource Table
 
