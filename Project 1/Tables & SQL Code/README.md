@@ -1,5 +1,3 @@
-# Project 1: Global Energy Landscape
-
 # [Project 1: Global Energy Landscape](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%201/Tables%20%26%20SQL%20Code/GlobalEnergyOutlookSQLCode.sql)
 
 ## Key Findings
