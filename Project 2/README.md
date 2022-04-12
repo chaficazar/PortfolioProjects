@@ -1,6 +1,4 @@
-# Project 2: COVID-19 Data
-
-*[SQL code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%202/SQLCode.sql)*
+# [Project 2: COVID-19 Data](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%202/SQLCode.sql)
 
 ---
 
