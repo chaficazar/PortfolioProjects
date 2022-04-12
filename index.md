@@ -13,7 +13,9 @@
 
 ---
 
-# Project 2: COVID-19 Data
+# Project 2: COVID-19 Statistics
+
+*[Tableau Dashboard](https://public.tableau.com/app/profile/chafic.azar/viz/COVID-19Statistics_16497856660050/Dashboard1)*
 
 *[SQL code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%202/SQLCode.sql)*
 
