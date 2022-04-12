@@ -1,4 +1,4 @@
-# [Project 2: COVID-19 Data](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%202/SQLCode.sql)
+# [Project 2: COVID-19 Statistics](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%202/SQLCode.sql)
 
 - In this project, I've used SQL to analyze publicly available data pertaining to coronavirus statistics globally. I then used Tableau to visualize the results of certain queries 
 - Identified shortcomings in used dataset
