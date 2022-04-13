@@ -24,3 +24,17 @@
 - Identified shortcomings in used dataset
 - Hospitalization data and number of logged tests effectuated was not accurate and consistent across the dataset to allow a more detailed analysis of percentage of hospitalizations and percentage of positive tests
 - SQL queries offered insight into interesting parameters, including the dates of vaccine rollout in each country, percentage of vaccinated people in each country and their corresponding poverty indices, percentage of vaccinated population who opted for the booster shot in each country, in addition to a dynamic table showing infection rates, death rates, and vaccination rates by day, both per country and globally
+
+---
+
+# Project 3: Data Cleaning
+
+*[SQL Code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%203/SQLCode.sql)*
+
+- In this project, I've used SQL to perform Data cleaning on a publicly available dataset (raw excel file included in this folder)
+- Data cleaning is a crucial step that prepares the data for further analysis
+- Normalized all fields by ensuring that each column contains only one set of information
+- Deleted duplicates
+- Standardized date formats
+- Detected and updated anomalies in the data (Query 4)
+- Deleted unused columns in the end
