@@ -16,4 +16,4 @@
 
 # Project 3: Data Cleaning
 
-*[SQL code]()*
+*[SQL code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%203/SQLCode.sql)*
