@@ -4,8 +4,6 @@
 
 *[SQL code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%201/Tables%20%26%20SQL%20Code/GlobalEnergyOutlookSQLCode.sql)*
 
----
-
 - In this project, I've used publicly available data to visualize and analyze the evolution of the energy mix since 1965
 - Performed minor data cleaning to prepare the dataset for further harmonious calculations
 - Identified shortcomings in used dataset
