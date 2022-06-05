@@ -29,7 +29,7 @@
 
 *[SQL Code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%203/SQLCode.sql)*
 
-- In this project, I've used SQL to perform Data cleaning on a publicly available dataset (raw excel file included in this folder)
+- In this project, I've used SQL to perform Data cleaning on a publicly available dataset (raw excel file accessible [here](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%203/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx))
 - Data cleaning is a crucial step that prepares the data for further analysis
 - Normalized all fields by ensuring that each column contains only one set of information
 - Deleted duplicates
