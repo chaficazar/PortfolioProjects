@@ -36,3 +36,15 @@
 - Standardized date formats
 - Detected and updated anomalies in the data (Query 4)
 - Deleted unused columns in the end
+
+---
+
+# Project 4: Market Outlook & Lead Identification
+
+*[SQL Code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/SQLCode.sql)*
+
+- The purpose of this exercise is twofold: (i) Analyze the evolution of the Gulf Cooperation Counsel (GCC) Region projects market over the past 10 years using a projects database, and (ii) outline projects in the pipeline in Kuwait and identify potential partners to jointly pursue upcoming projects. All data used for this exercise can be accessed [here](https://github.com/chaficazar/PortfolioProjects/tree/main/Project%204/Initial%20Data)
+- At an initial stage, data cleaning was performed to prepare the data for further analysis
+- Monitored the evolution of the GCC market by country since 2012 in terms of industry, sector and subsector development, in addition to project count, project values, biggest clients and biggest contractors
+- The State of Kuwait was emphasized in this exercise since it is the market of interest for my current company
+- Identified upcoming projects in Kuwait and used the Roles table to qualify potential partners based on well-defined criteria, in order to jointly bid for such projects
