@@ -17,3 +17,9 @@
 # Project 3: Data Cleaning
 
 *[SQL code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%203/SQLCode.sql)*
+
+---
+
+# Project 4: Market Outlook & Lead Identification
+
+*[SQL code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/SQLCode.sql)*
