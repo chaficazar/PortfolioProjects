@@ -21,6 +21,8 @@ The dataset consisted of 3 tables (see schema below):
 - ProjectRoles table: For each project in the Projects table, the ProjectRoles table identifies the corresponding contractor and their contact information
 -	Pipeline table: lists all upcoming projects and their expected award dates
 
+	![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/schema.PNG)
+
 ## Data Limitations
 
 Although the dataset presented insightful information, there were 4 shortcomings to take into account moving forward with the analysis:
@@ -65,6 +67,8 @@ As stated above, GCC countries main source of income originates from the oil and
 Moreover, the power industry has also been prominent within the last 9 years as capacity additions in 2012 & 2013 correspond to (i) an increasing population and (ii) to fulfill the requirements for electricity as urbanization and industrialization increase. Alternatively, 2018 and 2020 saw the execution of a large number of renewable energy projects particularly in KSA and UAE in response to the global “renewable energy boom” and to take advantage of their ideal geographical location in terms of solar irradiation.
 The figure below tracks the total value of completed projects & projects in execution across the GCC since 2012. 
 
+	![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%201.PNG)
+
 The above graph indicates peak activities in 2014, 2015 and 2021 with total project values equivalent to $94 billion, $89 billion and $100 billion respectively. 
 It should be noted that the value of 2022 projects represents all projects completed or in executed in 2022 until the 12th of May 2022.
 -	2014 & 2015: peak activity during those two years saw 41% increase in projects underlined by high crude prices driving a widespread execution of oil & gas projects across all GCC countries, including Kuwait’s $39 billion refinery project.
@@ -72,13 +76,19 @@ It should be noted that the value of 2022 projects represents all projects compl
 As shown in the pie chart below, KSA, UAE and Kuwait are the largest three markets in the region since 2012, with a combined market share of 76% in terms of project execution.
 The below pie chart showcases the disparity in market sizes even among the largest three markets of the region; Saudi Arabia dominates the region with 1,280 executed projects amounting to $ 268 billion followed by the United Arab Emirates with 885 executed projects totaling $ 131 billion and Kuwait comes third at 246 executed projects in the sum of $88 billion.
 
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%202.PNG)
+
 The graph below shows the average value of projects across the GCC since 2012. On average, executed contracts range between $151 million and $260 million per project and the region witnessed the highest increase in average project value after covid with a 35% increase in average project value.
+
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%203.PNG)
 
 ### Emerging Markets
 
 Saudi Arabia and the United Arab Emirates showed upward trends in the number of executed projects over the past 3 years with Saudi Arabia leading the way with a 60% increase in number of projects from 2020 to 2021 as the world recovered from the economic effects of the pandemic. The country is benefiting from the gained momentum and is planning to award projects in the sum of $ 7 billion by 2023. In 2021, Saudi Aramco was the largest client in the Saudi Market with $ 13 billion worth of floated projects. Saudi Aramco remains the dominant client in the country with projects worth upwards of $ 5 billion up until April of 2022.
 
 The United Arab Emirates has shown a steady increase in the number of executed projects between 2019 and 2021 after being badly hit by the pandemic (projects decreased by ~55% between 2018 and 2019). In terms of upcoming projects, the UAE plans to award projects with a total value of $ 2.7 billion and $ 2 billion in 2022 and 2023 respectively. Abu Dhabi Polymers Co was the largest client in the UAE with $ 6 billion worth of projects (Borouge Petrochemical Complex Project). ADNOC Offshore was the largest client up until April of 2022 with projects worth $ 1.2 billion.
+
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%204.PNG)
 
 ### Contract Execution Models
 
@@ -92,9 +102,13 @@ EPC contracts involve a deal between the project owner and a contractor who is r
 Alternatively, PPP contracts are long-term agreements between public and private entities, in which the private entity and the public entity jointly develop, finance, build and operate the facility for a concession period of 20 – 30 years. A special purpose vehicle (SPV) is often formed to execute the project which consists of representatives from both the private party and public party. Revenues from the long-term operation of the facility is collected by the SPV and distributed according to the equity of each party in that SPV. PPP contracts are starting to gain more traction in the GCC as large projects are being tendered on a PPP basis (power plants, infrastructure, etc.). The graph below shows the cumulative number of projects in the GCC countries by contract type since 2012.
 Although PPP contracts do not represent more than 9% of total executed contracts in the GCC, their cumulative values are higher than EPC contracts as shown in the graph below.
 
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%205.PNG)
+
 ## Kuwait
 
 The Kuwaiti market has been declining since 2014 while neighboring countries such as Saudi Arabia and the UAE witness a development movement chiefly driven by the desire to diversify their revenues and reduce their dependency on oil. The graph below indicates a drop in project count in Kuwait from 386 projects (average value per project $ 240 million) in 2014 to 39 projects (average value per project $ 56 million).
+
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%206.PNG)
 
 ### Political & Economic Climate
 #### Impact of Politics on Projects Market
@@ -127,9 +141,13 @@ The table below indicates the largest project owners in the country per year. Al
 
 Despite close to $ 25 billion worth of projects in the pipeline, Kuwait requires a structural overhaul of its projects market to reach its potential. The largest proportion of projects (upwards of 62%) remain tied up in the study or design phase. Their progression to the tendering board could be slower than anticipated given the prevailing liquidity conditions in Kuwait.
 
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%207.PNG)
+
 ### Largest Upcoming Projects
 
 Queries 31 and 32 outline the details of the top 20 largest upcoming projects in Kuwait to be awarded between 2022 and 2023. Upcoming projects are all distributed between the construction and transport industries with the largest upcoming project having an estimated budget of $ 6.8 billion.
+
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%208.PNG)
 
 Query 40 showcases the tentative contract award date of the upcoming projects. This information shall play a vital role for the business development unit to prepare and approach potential partners at least 3 months in advance.
 
