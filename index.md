@@ -41,7 +41,7 @@
 
 # Project 4: Market Outlook & Lead Identification
 
-*[Project Details](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/README.md)
+*[Project Details](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/README.md)*
 
 *[SQL Code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/SQLCode.sql)*
 
