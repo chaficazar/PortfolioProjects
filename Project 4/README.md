@@ -48,6 +48,19 @@ The Gulf Cooperation Council (GCC) is a political economic union of Arab states 
 Oil constitutes the main source of exports and the main government revenue, with nearly 70% of the region’s exports being oil exports while about 84% of government revenue being from oil.
 The table below shows the top performing industry in the GCC region since 2012, along with the total value of projects executed in the industry:
 
+| **Year** | **Top Performing Industry** | **Total Value of Projects in Industry ($m)** |
+|:--------:|:---------------------------:|:--------------------------------------------:|
+| 2012     | Power                       | 21,463                                       |
+| 2013     | Power                       | 18,580                                       |
+| 2014     | Oil                         | 35,613                                       |
+| 2015     | Oil                         | 29,442                                       |
+| 2016     | Gas                         | 13,023                                       |
+| 2017     | Oil                         | 31,058                                       |
+| 2018     | Power                       | 16,711                                       |
+| 2019     | Oil                         | 18,816                                       |
+| 2020     | Power                       | 14,768                                       |
+| 2021     | Gas                         | 39,732                                       |
+
 As stated above, GCC countries main source of income originates from the oil and gas industry which is the top performing industry in 2014, 2015, 2016, 2017, 2019 and 2021. 
 Moreover, the power industry has also been prominent within the last 9 years as capacity additions in 2012 & 2013 correspond to (i) an increasing population and (ii) to fulfill the requirements for electricity as urbanization and industrialization increase. Alternatively, 2018 and 2020 saw the execution of a large number of renewable energy projects particularly in KSA and UAE in response to the global “renewable energy boom” and to take advantage of their ideal geographical location in terms of solar irradiation.
 The figure below tracks the total value of completed projects & projects in execution across the GCC since 2012. 
@@ -95,6 +108,20 @@ A principal issue of concern is the absence of a new public debt law that would 
 ### Largest Clients in Kuwait
 
 The table below indicates the largest project owners in the country per year. All of the clients listed in the table are governmental entities. Kuwait Integrated Petrochemical Industries Company (KIPIC) is the largest client between 2012 and 2022 with projects worth ~ $ 13 billion corresponding to the refinery project.
+
+| **Year** |                     **Client**                     | **Projects Value** |
+|:--------:|:--------------------------------------------------:|:------------------:|
+| 2012     | Kuwait Ministry of Electricity & Water             | 1,413              |
+| 2013     | Kuwait Authority for Partnership Projects          | 6,910              |
+| 2014     | Kuwait National Petroleum Company                  | 11,941             |
+| 2015     | Kuwait Integrated Petrochemical Industries Company | 12,926             |
+| 2016     | Kuwait Public Authority for Housing Welfare        | 11,804             |
+| 2017     | Kuwait Oil Company                                 | 3,224              |
+| 2018     | Kuwait Public Authority for Housing Welfare        | 445                |
+| 2019     | Kuwait Oil Company                                 | 556                |
+| 2020     | Kuwait Authority for Partenership Projects         | 1,400              |
+| 2021     | Kuwait Oil Company                                 | 1,386              |
+| 2022     | Kuwait Ministry of Electricity & Water             | 90                 |
 
 ## Kuwait Projects Pipeline
 
