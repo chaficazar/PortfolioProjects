@@ -67,7 +67,7 @@ As stated above, GCC countries main source of income originates from the oil and
 Moreover, the power industry has also been prominent within the last 9 years as capacity additions in 2012 & 2013 correspond to (i) an increasing population and (ii) to fulfill the requirements for electricity as urbanization and industrialization increase. Alternatively, 2018 and 2020 saw the execution of a large number of renewable energy projects particularly in KSA and UAE in response to the global “renewable energy boom” and to take advantage of their ideal geographical location in terms of solar irradiation.
 The figure below tracks the total value of completed projects & projects in execution across the GCC since 2012. 
 
-	![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%201.PNG)
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%201.PNG)
 
 The above graph indicates peak activities in 2014, 2015 and 2021 with total project values equivalent to $94 billion, $89 billion and $100 billion respectively. 
 It should be noted that the value of 2022 projects represents all projects completed or in executed in 2022 until the 12th of May 2022.
@@ -113,11 +113,11 @@ The Kuwaiti market has been declining since 2014 while neighboring countries suc
 ### Political & Economic Climate
 #### Impact of Politics on Projects Market
 
-Protesting politicians and disruptions to decision-making are expected to continue plaguing Kuwaiti politics. In fact, in late June 2022, parliament was dissolved due to a long lasting conflict between MPs. In June 2021, Kuwait’s parliament approved the 2021-22 state budget, allowing progress on some key infrastructure projects, but the broader standoff between government and opposition, which has blocked reforms and stalled decision-making has continued.
+Protesting politicians and disruptions to decision-making are expected to plague Kuwaiti politics for the foreseeable future. In fact, parliament was dissolved in late June 2022 due to a long-running conflict between MPs. Kuwait's parliament approved the state budget for 2021-22 in June 2021, allowing progress on some key infrastructure projects, but the broader standoff between government and opposition, which has stymied reforms and slowed decision-making, has continued.
 
 #### Economic Climate
 
-A principal issue of concern is the absence of a new public debt law that would allow the government to borrow funds to cover its wide budget deficit. As it stands, Kuwait’s government has not borrowed since 2017, and has instead relied on its General Reserve Fund and other liquid assets. The inaction on this front led rating agency S&P to cut Kuwait’s rating from AA- to A+ in July 2021.
+The absence of a new public debt law, which would allow the government to borrow funds to cover its large budget deficit, is a major source of concern. Kuwait's government has not borrowed since 2017, relying instead on its General Reserve Fund and other liquid assets. Inaction on this front prompted S&P to downgrade Kuwait's rating from AA- to A+ in July 2021.
 
 ### Largest Clients in Kuwait
 
