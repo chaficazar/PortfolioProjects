@@ -1,6 +1,6 @@
 # Project 1: Global Energy Landscape
 
-*[Project Details](https://github.com/chaficazar/PortfolioProjects/tree/main/Project%201)*
+*[Read Article](https://github.com/chaficazar/PortfolioProjects/tree/main/Project%201)*
 
 *[SQL code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%201/Tables%20%26%20SQL%20Code/GlobalEnergyOutlookSQLCode.sql)*
 
@@ -41,7 +41,7 @@
 
 # Project 4: Market Outlook & Lead Identification
 
-*[Project Details](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/README.md)*
+*[Read Article](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/README.md)*
 
 *[SQL Code](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/SQLCode.sql)*
 
