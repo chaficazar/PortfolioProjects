@@ -1,4 +1,4 @@
-### H3 he three tables used for the analysis are as follows:
+### The three tables used for the analysis are as follows:
 
 **-Projects:** lists all projects in the GCC Region between 2012 until April 2022
 
