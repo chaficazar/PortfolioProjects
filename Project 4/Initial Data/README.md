@@ -6,4 +6,4 @@
 
 **-Pipeline:** identifies all upcoming projects that are currently in the pipeline
 
-The dataset used for this project is not publicly available and therefore has not been uploaded to github for containing sensitive and private information that is not meant to be shared in public. Refer to the schema [here]() to view the structure of each table.
+The dataset used for this project is not publicly available and therefore has not been uploaded to github for containing sensitive and private information that is not meant to be shared in public. Refer to the schema [here](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/schema.PNG) to view the structure of each table.
