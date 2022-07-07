@@ -21,7 +21,7 @@ The dataset consisted of 3 tables (see schema below):
 - ProjectRoles table: For each project in the Projects table, the ProjectRoles table identifies the corresponding contractor and their contact information
 -	Pipeline table: lists all upcoming projects and their expected award dates
 
-![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/Graph%201.PNG)
+![](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/Images/schema.PNG)
 
 ## Data Limitations
 
