@@ -123,19 +123,19 @@ The absence of a new public debt law, which would allow the government to borrow
 
 The table below indicates the largest project owners in the country per year. All of the clients listed in the table are governmental entities. Kuwait Integrated Petrochemical Industries Company (KIPIC) is the largest client between 2012 and 2022 with projects worth ~ $ 13 billion corresponding to the refinery project.
 
-| **Year** |                     **Client**                     | **Projects Value** |
-|:--------:|:--------------------------------------------------:|:------------------:|
-| 2012     | Kuwait Ministry of Electricity & Water             | 1,413              |
-| 2013     | Kuwait Authority for Partnership Projects          | 6,910              |
-| 2014     | Kuwait National Petroleum Company                  | 11,941             |
-| 2015     | Kuwait Integrated Petrochemical Industries Company | 12,926             |
-| 2016     | Kuwait Public Authority for Housing Welfare        | 11,804             |
-| 2017     | Kuwait Oil Company                                 | 3,224              |
-| 2018     | Kuwait Public Authority for Housing Welfare        | 445                |
-| 2019     | Kuwait Oil Company                                 | 556                |
-| 2020     | Kuwait Authority for Partenership Projects         | 1,400              |
-| 2021     | Kuwait Oil Company                                 | 1,386              |
-| 2022     | Kuwait Ministry of Electricity & Water             | 90                 |
+| **Year** |                     **Client**                     | **Projects Value ($m)** |
+|:--------:|:--------------------------------------------------:|:------------------:     |
+| 2012     | Kuwait Ministry of Electricity & Water             | 1,413                   |
+| 2013     | Kuwait Authority for Partnership Projects          | 6,910                   |
+| 2014     | Kuwait National Petroleum Company                  | 11,941                  |
+| 2015     | Kuwait Integrated Petrochemical Industries Company | 12,926                  |
+| 2016     | Kuwait Public Authority for Housing Welfare        | 11,804                  |
+| 2017     | Kuwait Oil Company                                 | 3,224                   |
+| 2018     | Kuwait Public Authority for Housing Welfare        | 445                     |
+| 2019     | Kuwait Oil Company                                 | 556                     |
+| 2020     | Kuwait Authority for Partenership Projects         | 1,400                   |
+| 2021     | Kuwait Oil Company                                 | 1,386                   |
+| 2022     | Kuwait Ministry of Electricity & Water             | 90                      |
 
 ## Kuwait Projects Pipeline
 
