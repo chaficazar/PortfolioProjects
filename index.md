@@ -39,7 +39,7 @@
 
 ---
 
-# [Project 4: Market Outlook & Lead Identification](https://github.com/chaficazar/PortfolioProjects/tree/gh-pages/Projects/Project4)
+# [Project 4: Market Outlook & Lead Identification](https://github.com/chaficazar/PortfolioProjects/blob/gh-pages/Project4/index.md)
 
 *[Read Article](https://github.com/chaficazar/PortfolioProjects/blob/main/Project%204/README.md)*
 
