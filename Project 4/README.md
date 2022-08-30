@@ -11,7 +11,7 @@
 - The largest clients in Kuwait are all governmental entities. Kuwait Integrated Petrochemical Industries Company (KIPIC) is the largest client between 2012 and 2022 with projects worth ~ $ 13 billion corresponding to the refinery project.
 - Despite close to $ 25 billion worth of projects in the pipeline, Kuwait requires a structural overhaul of its projects market to reach its potential. The largest proportion of projects (upwards of 62%) remain tied up in the study or design phase.
 - The top 20 largest upcoming projects in Kuwait are concentrated in the construction and transport sectors with total estimated values of $ 11 billion and $ 5 billion respectively.
-- 6 companies were shortlisted as potential partners for the upcoming projects based on 3 criteria, i) having executed projects in the construction and transportation sectors, ii) having executed projects within the past 5 years, and iii) having executed projects with values upward of $ 200 million.
+- 6 companies were shortlisted as potential partners for the upcoming projects based on 3 criteria, i) having executed projects in the construction and transportation sectors, ii) having executed projects within the past 5 years, and iii) having executed projects with values upward of $ 200 million. Since the dataset is not available publicly, the names of the shortlisted companies were kept confidential.
 
 ## Dataset
 
